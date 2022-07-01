@@ -1,2 +1,2 @@
 # hexlet-php
-"My first Hexslet project"
+"My first Hexlet project"
