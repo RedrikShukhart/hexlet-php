@@ -4,9 +4,9 @@
     "type": "project",
     "license": "MIT",
     "autoload": {
-        "psr-4": {
-            "Nataly\\HexletPhp\\": "src/"
-        }
+        "files": [
+            "src/Runner.php"
+        ]
     },
     "authors": [
         {
@@ -14,5 +14,7 @@
             "email": "redrikshu@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.83"
+    }
 }
